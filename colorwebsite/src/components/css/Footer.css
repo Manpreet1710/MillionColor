@@ -1,0 +1,55 @@
+.Navlink {
+  color: #000 !important;
+}
+.active {
+  color: black;
+}
+.main_row {
+  width: 100%;
+  margin: 0;
+}
+.footer_subheading {
+  font-size: 1.1rem;
+  font-weight: 600 !important;
+}
+.footer__link {
+  color: rgb(128, 128, 128);
+  text-decoration: none;
+}
+.footer__link:hover {
+  text-decoration: none;
+}
+
+.input__design {
+  border: none;
+  padding: 0 5px;
+  font-size: 0.7rem;
+}
+.input__design:focus {
+  outline: none;
+}
+.input_div {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.26);
+  padding: 4px 9px;
+  border-radius: 4px;
+}
+.my_btn {
+  border-radius: 5px;
+  padding: 4px 20px !important;
+  border: none;
+  color: #fff;
+  background: linear-gradient(90deg, #e0172af2 0%, var(--primary-color) 99%);
+}
+.s_link {
+  margin: 0 20px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  background: linear-gradient(90deg, #e0172af2 0%, var(--primary-color));
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.s_link:hover {
+  transform: scale(1.3);
+}

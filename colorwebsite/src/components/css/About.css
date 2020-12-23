@@ -1,0 +1,16 @@
+.about_colors p::selection {
+  color: #ff5757;
+  background-color: #000;
+}
+.about_colors h5::selection {
+  color: white;
+  background-color: black;
+}
+
+.about_colors h6::selection {
+  color: var(--primary-color1);
+  background-color: black;
+}
+.same {
+  text-decoration: underline;
+}
