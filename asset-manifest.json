@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MillionColors/static/css/main.017d0bb6.chunk.css",
+    "main.js": "/MillionColors/static/js/main.37de820b.chunk.js",
+    "main.js.map": "/MillionColors/static/js/main.37de820b.chunk.js.map",
+    "runtime-main.js": "/MillionColors/static/js/runtime-main.1faf3e30.js",
+    "runtime-main.js.map": "/MillionColors/static/js/runtime-main.1faf3e30.js.map",
+    "static/css/2.2a86faee.chunk.css": "/MillionColors/static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d863e8c.chunk.js": "/MillionColors/static/js/2.8d863e8c.chunk.js",
+    "static/js/2.8d863e8c.chunk.js.map": "/MillionColors/static/js/2.8d863e8c.chunk.js.map",
+    "index.html": "/MillionColors/index.html",
+    "precache-manifest.b8a902cc8ce35c65b9aa3c6d00b72ff3.js": "/MillionColors/precache-manifest.b8a902cc8ce35c65b9aa3c6d00b72ff3.js",
+    "service-worker.js": "/MillionColors/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/MillionColors/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.017d0bb6.chunk.css.map": "/MillionColors/static/css/main.017d0bb6.chunk.css.map",
+    "static/js/2.8d863e8c.chunk.js.LICENSE.txt": "/MillionColors/static/js/2.8d863e8c.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/MillionColors/static/media/Logo.0c586d06.png",
+    "static/media/newimg.png": "/MillionColors/static/media/newimg.8280daba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1faf3e30.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.8d863e8c.chunk.js",
+    "static/css/main.017d0bb6.chunk.css",
+    "static/js/main.37de820b.chunk.js"
+  ]
+}
