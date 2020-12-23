@@ -1,6 +1,5 @@
 {
   "name": "colorwebsite",
-  "homepage": "https://ManpreetChoudhary.github.io/MillionColors",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
