@@ -1,5 +1,6 @@
 {
   "name": "colorwebsite",
+  "homepage": "http://millioncolor.co/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
