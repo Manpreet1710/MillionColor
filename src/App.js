@@ -84,7 +84,7 @@ class App extends Component {
             <Switch>
               <Route
                 exact
-                path='/'
+                path='/colorpicker'
                 render={(props) => (
                   <>
                     {' '}
@@ -152,7 +152,7 @@ class App extends Component {
                 )}
               />
               <Route exact path='/development' component={Development} />
-              <Redirect to='/' />
+              {/* <Redirect to='/' /> */}
             </Switch>
           </div>
         </BrowserRouter>
