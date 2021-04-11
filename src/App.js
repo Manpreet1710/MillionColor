@@ -84,7 +84,7 @@ class App extends Component {
             <Switch>
               <Route
                 exact
-                path='/colorpicker'
+                path='/'
                 render={(props) => (
                   <>
                     {' '}

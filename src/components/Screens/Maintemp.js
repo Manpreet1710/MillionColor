@@ -6,6 +6,7 @@ import GroupOutlinedIcon from '@material-ui/icons/GroupOutlined'
 import HomeOutlinedIcon from '@material-ui/icons/HomeOutlined'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import man from '../images/newimg.png'
+import manpreet from '../images/myself.png'
 import MaintempCard from '../Components/MaintempCard'
 
 const Maintemp = ({ palettefortemp }) => {
@@ -334,7 +335,7 @@ const Maintemp = ({ palettefortemp }) => {
           </div>
           <div className='col-md-4 sm-6 text-center'>
             <img
-              src={man}
+              src={manpreet}
               style={{ background: color1 }}
               alt='nothing'
               className='our_teamimg'
@@ -354,7 +355,7 @@ const Maintemp = ({ palettefortemp }) => {
                 color: color3 ? color3 : '#000',
               }}
             >
-              Full Stack Web developer
+              FrontEnd developer
             </p>
           </div>
         </div>
